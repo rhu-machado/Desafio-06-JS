@@ -40,4 +40,4 @@ let cadastro = [
         amigos: ['Bruno', 'Evelyn']
     }]
 
-    console.log(cadastro[4].amigos[1])
+    console.log(cadastro[0].amigos[1],cadastro[1].amigos[0],cadastro[2].amigos[1],cadastro[3].amigos[0],cadastro[4].amigos[1])
